@@ -1,3 +1,5 @@
+# modulecreateR <img src="man/figures/logo.png" align="right" height="180" /></a>
+
 ## Overview
 
 The goal of modulecreateR is to provide a fast and friendly way to create multiple R shiny module templates at once.
