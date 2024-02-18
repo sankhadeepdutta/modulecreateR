@@ -57,7 +57,7 @@ create_modules <- function() {
   cat("Current working directory:", getwd(), "\n")
   
   # Get the path from the user (relative)
-  file_path <- readline(prompt = "Enter the path where you want to save the files (relative): ")
+  file_path <- readline(prompt = "Enter the (relative) path where you want to save the files: ")
   
   # Check if the path exists
   if (!file.exists(file_path)) {
