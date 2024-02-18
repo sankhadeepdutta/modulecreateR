@@ -1,0 +1,16 @@
+Package: modulecreateR
+Type: Package
+Title: In-Line Documentation for R
+Version: 1.0.0
+Date: 2024-02-14
+Authors@R: c(
+    person("Sankhadeep", "Dutta", , "dutta.shankhadeep@gmail.com", role = c("aut", "cre", "cph", "ctb")))
+Description: A user-friendly R package to ease the creation of multiple Shiny modules.
+Imports: roxygen2
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.1
+NeedsCompilation: no
+Packaged: 2024-02-18 15:10:27 UTC; dutta
+Author: Sankhadeep Dutta [aut, cre, cph, ctb]
+Maintainer: Sankhadeep Dutta <dutta.shankhadeep@gmail.com>
